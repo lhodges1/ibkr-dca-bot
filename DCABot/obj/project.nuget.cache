@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Iwl/3+EuX3s+cqqtxM6XxyKTY5Jle5DXwJ1uSJxuuUs0htjRCFV8mHynZy3LF6kcnZl5aV4gbpDPCBsxQQh8fA==",
+  "success": true,
+  "projectFilePath": "E:\\attempt2\\DCABot\\DCABot\\DCABot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lachuie\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "C:\\Users\\lachuie\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\lachuie\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\lachuie\\.nuget\\packages\\serilog\\2.11.0\\serilog.2.11.0.nupkg.sha512",
+    "C:\\Users\\lachuie\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512",
+    "C:\\Users\\lachuie\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
+    "C:\\Users\\lachuie\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
